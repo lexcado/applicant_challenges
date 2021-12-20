@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2021-01-01T08:00:00+00:00",
+    "doctor": "Dr. Smith"
+  },
+  {
+    "date": "2021-01-01T08:15:00+00:00",
+    "doctor": "Dr. Smith"
+  },
+  {
+    "date": "2021-01-01T08:30:00+00:00",
+    "doctor": "Dr. Smith"
+  },
+  {
+    "date": "2021-01-01T08:45:00+00:00",
+    "doctor": "Dr. Smith"
+  },
+  {
+    "date": "2021-01-01T09:00:00+00:00",
+    "doctor": "Dr. Smith"
+  },
+  {
+    "date": "2021-01-01T08:00:00+00:00",
+    "doctor": "Dr. Lauterbach"
+  },
+  {
+    "date": "2021-01-01T08:15:00+00:00",
+    "doctor": "Dr. Lauterbach"
+  },
+  {
+    "date": "2021-01-01T08:30:00+00:00",
+    "doctor": "Dr. Lauterbach"
+  },
+  {
+    "date": "2021-01-01T08:45:00+00:00",
+    "doctor": "Dr. Lauterbach"
+  },
+  {
+    "date": "2021-01-01T09:00:00+00:00",
+    "doctor": "Dr. Lauterbach"
+  },
+  {
+    "date": "2021-01-02T08:00:00+00:00",
+    "doctor": "Dr. Lauterbach"
+  },
+  {
+    "date": "2021-01-02T08:15:00+00:00",
+    "doctor": "Dr. Lauterbach"
+  },
+  {
+    "date": "2021-01-02T08:30:00+00:00",
+    "doctor": "Dr. Lauterbach"
+  },
+  {
+    "date": "2021-01-02T08:45:00+00:00",
+    "doctor": "Dr. Lauterbach"
+  },
+  {
+    "date": "2021-01-02T09:00:00+00:00",
+    "doctor": "Dr. Lauterbach"
+  }
+]
