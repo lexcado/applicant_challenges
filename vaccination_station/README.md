@@ -26,7 +26,7 @@ If there is no suitable time-slot available, the patient can subscribe for a not
 
 ## Boundary conditions
 
-- Implement only the backend logic, preferably in python. TypeScript or Java
+- Implement only the backend logic, preferably in Python or  TypeScript
 - You don't need to implement a REST, GraphQl etc. presentation layer exposing the business logic. Functions as entrypoints for the business logic are enough. Nevertheless, structure the business methods in a way that they easily can be called by the presentation layer and tests.
 - **Proof that your solution works by providing high-level integration-tests.**
 - You are free to use any in-memory persistence method, like hashmaps, in-memory databases, etc. There is no need for persistence across multiple executions of the application.
